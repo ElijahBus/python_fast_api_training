@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "FastAPI",
+            "database": "${workspaceFolder:Fast_Api_Course}/blog.db",
+            "group": "No"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
